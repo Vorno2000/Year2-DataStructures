@@ -1,2 +1,6 @@
-# Year2-DataStructures
-Grade:100/100 | This was an Data Structures assignment which comprised of a Zombie Simulator, Factory Simulator, Journey Planner &amp; Boolean Expression Tree. Each had their own data structures implementation
+# Overview
+These projects were created in Netbeans 8.2 | Download the folders and load them into Netbeans as is then run
+
+All coding can be found in their respective /src folders
+
+Optionally refer to the Screenshots
